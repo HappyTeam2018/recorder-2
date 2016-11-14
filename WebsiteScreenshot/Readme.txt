@@ -1,7 +1,7 @@
 Takes screenshot of any passed website.
 
 For program explanation visit:
-https://cooltrickshome.blogspot.in/
+https://cooltrickshome.blogspot.in/2016/11/take-screenshot-of-any-website-using.html
 
 POM Dependency:
     <dependency>
